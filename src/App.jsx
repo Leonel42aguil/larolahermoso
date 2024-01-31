@@ -10,6 +10,8 @@ function App() {
     <>
      <h1>asda</h1>
      <Button>adsad</Button>
+     <Button>TUTI</Button>
+     <Button>ZAVALA</Button>
     </>
   )
 }
